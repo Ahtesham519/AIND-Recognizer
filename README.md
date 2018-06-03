@@ -1,3 +1,25 @@
+Meets Specifications
+Excellent work overall! The project meets all the specifications. Optimized implementations, pythonic code. Please do share your experience, difficulties, or solutions, to any specific cases so that other students could benefit too, on the AI Nanodegree forum. Feel free to reach out, if you need any help or have difficulty understanding anything, our dedicated mentors are there to help. Keep up the good work and stay udacious :udacious:
+
+PART 1: Data
+Student provides correct alternate feature sets: delta, polar, normalized, and custom.
+Student passes unit tests.
+Student provides a reasonable explanation for what custom set was chosen and why (Q1).
+Well done! All the unit tests passed, correct alternative feature set.
+
+PART 2: Model Selection
+Student correctly implements CV, BIC, and DIC model selection techniques in “my_model_selectors.py”.
+Student code runs error-free in notebook, passes unit tests and code review of the algorithms.
+Student provides a brief but thoughtful comparison of the selectors (Q2).
+Good job in BIC, DIC implementation and using KFold as the SelectorCV split method and utility "combine_sequences". Implementation passed all unit tests, comparison of pros and cons of various model selectors is quite detailed and impressive :smile:
+
+PART 3: Recognizer
+Student implements a recognizer in “my_recognizer.py” which runs error-free in the notebook and passes all unit tests
+Student provides three examples of feature/selector combinations in the submission cells of the notebook.
+Student code provides the correct words within <60% WER for at least one of the three examples student provided.
+Student provides a summary of results and speculates on how to improve the WER.
+Well summarized results. I would encourage you to implement optional part4 and share results in the classroom with other students. :clap:
+
 # Artificial Intelligence Engineer Nanodegree
 ## Probabilistic Models
 ## Project: Sign Language Recognition System
